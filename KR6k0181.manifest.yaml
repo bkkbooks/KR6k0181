@@ -1,0 +1,71 @@
+canonical_identifier: bkk:krp/KR6k0181/v1
+canonical_location: https://kanripo.org/bkk/KR6k0181/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 量處輕重儀
+  identifiers:
+    alt_id:
+    - T45n1895
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1895.xml
+    old_id: T45n1895
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit1
+- short: 原
+  label: 原
+  source_xml_id: wit2
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0181_000.yaml, hash: 'sha256:8337d7e59da8c682da716edc42f02ab033bb0b5117aa24084eaa2574289d22b3'}
+  - {seq: 1, filename: KR6k0181_001.yaml, hash: 'sha256:33961e0663b6a147aad7b17a4c99b8477135c2d9322a51c4e1090cb5d525b050'}
+  - {seq: 2, filename: KR6k0181_002.yaml, hash: 'sha256:16c02360ca1fa292dbb66327513736ef5a774ca45a7235f701828f724963a457'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0181_000.markers.yaml, hash: 'sha256:6dd8c3ec273cb543c818e0360c633910f437762cb7e0fa200e3c560fecbecae2'}
+  - {seq: 1, role: markers, filename: assets/KR6k0181_001.markers.yaml, hash: 'sha256:0c9a39907dff7f57c7958141ae654c24dc82d7c6039b8dcd8b7d0372b7375a44'}
+  - {seq: 2, role: markers, filename: assets/KR6k0181_002.markers.yaml, hash: 'sha256:e0ef829bd749d33ea42f2efcfd125ef73abebfe86ddedefd8291af77c5e3eea7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0181_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 新刻量處輕重儀序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0181_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10343
+  label: 量處輕重儀謂亡五眾物也本
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0181_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 11855
+  label: 量處輕重儀末
+  type: juan
+  level: 1
+hash: sha256:b818d6595e37668c842d6db572289b25e26ace2964aa2448b26cb5db0437b98b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
