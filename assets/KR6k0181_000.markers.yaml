@@ -65,6 +65,7 @@ markers:
   - {type: xml-element, offset: 269, content: '', id: pT45p0839b1901_end, name: p, role: close, attrs: {'xml:id': pT45p0839b1901}}
   - {type: line-break, offset: 269, content: '', id: KR6k0181_T_000-0839c06, ed: T, 'n': 0839c06}
   - {type: xml-element, offset: 269, content: '', id: pT45p0839c0601, name: p, role: open, attrs: {'xml:id': pT45p0839c0601, style: 'margin-left:1em'}}
+  - {type: substitution, offset: 269, original: 旹, replacement: 時, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16505}}
   - {type: xml-element, offset: 270, content: '', id: pT45p0839c0601_end, name: p, role: close, attrs: {'xml:id': pT45p0839c0601, style: 'margin-left:1em'}}
   - {type: line-break, offset: 270, content: '', id: KR6k0181_T_000-0839c07, ed: T, 'n': 0839c07}
   - {type: xml-element, offset: 270, content: '', id: pT45p0839c0701, name: p, role: open, attrs: {'xml:id': pT45p0839c0701}}
@@ -78,4 +79,4 @@ markers:
   - {type: line-break, offset: 308, content: '', id: KR6k0181_T_000-0839c12, ed: T, 'n': 0839c12}
   body: []
   back: []
-hash: sha256:a556651f5f3a4276fe489c03703198686f926bb261feb26aa1fbd401a2bc27c0
+hash: sha256:6cad1646f9f4677d5f02af398abb790004df25661ea78ba946562e12d4964f0c

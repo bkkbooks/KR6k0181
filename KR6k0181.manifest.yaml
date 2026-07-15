@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0181/v1
 canonical_location: https://kanripo.org/bkk/KR6k0181/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 量處輕重儀
   identifiers:
@@ -27,13 +27,13 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6k0181_000.yaml, hash: 'sha256:04295114dad0215727ae5e08990188feaf2ccc0de5d7b803b0cc8c48607592c2'}
-  - {seq: 1, filename: KR6k0181_001.yaml, hash: 'sha256:6f8e6d199ce84f1882882790c3a270f92f9404d5bc9643d723f828218484a67a'}
-  - {seq: 2, filename: KR6k0181_002.yaml, hash: 'sha256:8fb52b0d6f21356696b937f48fa5b170fc51ac5beb5aa71bdb75090f509b8dc0'}
+  - {seq: 0, filename: KR6k0181_000.yaml, hash: 'sha256:8337d7e59da8c682da716edc42f02ab033bb0b5117aa24084eaa2574289d22b3'}
+  - {seq: 1, filename: KR6k0181_001.yaml, hash: 'sha256:77e5f939e989cfedb67b33dca272691795638bc3420fea6d1a1787cc5dfabcf3'}
+  - {seq: 2, filename: KR6k0181_002.yaml, hash: 'sha256:c2f1bb87528f8262de7bfb062888e64d7c0e1304da500d405ab332aa02a6ba80'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0181_000.markers.yaml, hash: 'sha256:a556651f5f3a4276fe489c03703198686f926bb261feb26aa1fbd401a2bc27c0'}
-  - {seq: 1, role: markers, filename: assets/KR6k0181_001.markers.yaml, hash: 'sha256:414c086fed19a5996d39ffd6e32ebad886d9583053039942197a0339722d484b'}
-  - {seq: 2, role: markers, filename: assets/KR6k0181_002.markers.yaml, hash: 'sha256:fe64097ad438c1d385e0fccd665a8d6d58f293f294c983b8d13257e857ea16a5'}
+  - {seq: 0, role: markers, filename: assets/KR6k0181_000.markers.yaml, hash: 'sha256:6cad1646f9f4677d5f02af398abb790004df25661ea78ba946562e12d4964f0c'}
+  - {seq: 1, role: markers, filename: assets/KR6k0181_001.markers.yaml, hash: 'sha256:2896e3ec98d87fa74924bfed632b1eddc8fef5b48ff6b79ed0ce91ded6bc40d3'}
+  - {seq: 2, role: markers, filename: assets/KR6k0181_002.markers.yaml, hash: 'sha256:5058844d4b12a886abd560e62890e15658ab56d12bf031a8ab7666cbb07cca4a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -65,4 +65,7 @@ table_of_contents:
   label: 量處輕重儀末
   type: juan
   level: 1
-hash: sha256:6389881202699f4da07436e70efdaef0ee5a957dadadccd41ac4904eb28c910f
+hash: sha256:d4d212807bfab6b32ac28399a54763d2ab5adb390a45fa78dfb6c255aa6a36aa
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
