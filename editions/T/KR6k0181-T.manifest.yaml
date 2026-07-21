@@ -19,11 +19,11 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6k0181_000-T.yaml, hash: 'sha256:04295114dad0215727ae5e08990188feaf2ccc0de5d7b803b0cc8c48607592c2'}
+  - {seq: 0, filename: KR6k0181_000-T.yaml, hash: 'sha256:f417f767ed2b354fa9d0696dec4a1db384c0decd569b3d162f16f89693dd6310'}
   - {seq: 1, filename: KR6k0181_001-T.yaml, hash: 'sha256:6f8e6d199ce84f1882882790c3a270f92f9404d5bc9643d723f828218484a67a'}
   - {seq: 2, filename: KR6k0181_002-T.yaml, hash: 'sha256:8fb52b0d6f21356696b937f48fa5b170fc51ac5beb5aa71bdb75090f509b8dc0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0181_000-T.markers.yaml, hash: 'sha256:9faadf0ef6885297b581ec6f713e03f3673214341f388597a0e087139a8127ea'}
+  - {seq: 0, role: markers, filename: assets/KR6k0181_000-T.markers.yaml, hash: 'sha256:99000cdbc291ffbeaf6fe27d5f87d8aa9fb4034c2364d7157bbfe51233aa1cef'}
   - {seq: 1, role: markers, filename: assets/KR6k0181_001-T.markers.yaml, hash: 'sha256:4a83af35d818637d6343b13cecdba6a33380b0baaf6f4396eed9b422bbb4a1f9'}
   - {seq: 2, role: markers, filename: assets/KR6k0181_002-T.markers.yaml, hash: 'sha256:84b6af8cf26afd5ef479f6a0618bac3fea310922f6f2b8cded3f2a187c109e03'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0181_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 新刻量處輕重儀序
@@ -57,4 +57,4 @@ table_of_contents:
   label: 量處輕重儀末
   type: juan
   level: 1
-hash: sha256:8dfe8cd8becb9fbe9f2660cc0728ef3775a6f08268d1a36d9575bf21332d07e3
+hash: sha256:d400aaffa08719e6b30e1c21b53915964a63281ba12687a93c0879925f011c99

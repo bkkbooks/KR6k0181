@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6k0181/t/v1/juan/0
 seq: 0
-front:
+body:
   text: 新刻量處輕重儀序亡僧衣資處斷甚難蓋以聖教廣博而部計不同也往古宗師尚弗能無遲疑況淺學寡聞何由盡曉是故我高祖南山法慧大師括諸部大義立一家洪範著量處輕重儀用貽來裔其文煥然如日月之光而輕重之判無餘蘊矣所以歷代重之以為龜鏡也猗乎屬有鳩峯乘春律師是律海之長鯨也深慨其書雖存而傳世之不弘乃為對挍鍥梓流通余今秋偕在南京西大寺光明真言會場忽遇其成緒頂奉熏開歎曰斯典也曩招提真和尚始傳本邦以來大凡一千載未聞印行今時當末法之運觀此一舉揚豈不曰吾門之大幸乎哉春公徵余為序余抃躍之餘而不甚辭輒懸鄙辭少申隨喜庶樂學戒之士展轉流行遠達龍華同由斯文斷其輕重俱遵一道淨行云時貞享五年歲在戊辰仲秋望旦終南山圓律宗後裔苾芻慈光慧門謹書于京北朝日山華嚴方丈
   hash: sha256:8c4bab049cce669a0dbeb8ecf7d5a38aff9ee3ae219bdc667d75ace573b36a3d
   markers:
   - {type: 序, offset: 0, content: 新刻量處輕重儀序, id: KR6k0181_T_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 量處輕重儀
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T45/T45n1895.xml
     old_id: T45n1895
-hash: sha256:8337d7e59da8c682da716edc42f02ab033bb0b5117aa24084eaa2574289d22b3
+hash: sha256:0a266dd1f8d041c11e905b7185ebec294a5c539eb8d6fcdb3fde518ade09bf4c
